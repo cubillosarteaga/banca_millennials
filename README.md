@@ -4,10 +4,12 @@ Banca Millennials es una plataforma digital sencilla y rápida, dirigida a los j
 
 ![home](https://user-images.githubusercontent.com/32303709/37869710-83a7cdde-2f9b-11e8-8f98-b43f160942e5.png)
 
-## Desarrollado para
+## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
 
-Comenzamos investigando a la generación millennials, para poder crear una ​guía de entrevistas​ adecuada para ellos, y poder lograr levantar la mayor cantidad de información. Así poder conocer sus intereses, miedos y frustraciones; qué es lo que esperan de la banca actual o qué no los tiene satisfechos.
+DESCUBRIMIENTO
+
+Comenzamos investigando a la generación millennials, para poder crear una guía de entrevistas adecuada para ellos, y poder lograr levantar la mayor cantidad de información. Así poder conocer sus intereses, miedos y frustraciones; qué es lo que esperan de la banca actual o qué no los tiene satisfechos.
 
 ETAPA DE RESEARCH
 
